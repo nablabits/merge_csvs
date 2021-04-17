@@ -1,0 +1,4 @@
+*.python-version
+
+Vim swap files
+*.swp
