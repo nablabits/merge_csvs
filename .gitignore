@@ -1,4 +1,5 @@
 *.python-version
+*.pyc
 
 # Vim swap files
 *.swp
