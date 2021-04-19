@@ -6,7 +6,7 @@ are not csv.
 ## Running the script
 Quite easy
 ```
-(venv)$> python merge_csvs some-zip-file-with-at-least-two-similar-csvs.zip
+(venv)$> python merge_csvs.py some-zip-file-with-at-least-two-similar-csvs.zip
 ```
 
 
